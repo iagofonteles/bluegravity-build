@@ -1,20 +1,20 @@
 DisplayName: 
 Money:
-  Value: 0
+  Value: 16
 Equipments:
-- Value: ''
+- Value: Sword
 - Value: ''
 - Value: ''
 _inventory:
-- False,2,Wood
+- False,2,Health Potion 1
+- False,5,Gold
 - False,0,
-- False,0,
-- False,0,
-- False,0,
-- False,0,
-- False,0,
-- False,0,
-- False,0,
+- False,1,Boots
+- False,16,Wood
+- False,21,Red Berry
+- False,2,Iron
+- False,19,Diamond
+- False,1,Pickaxe
 - False,0,
 - False,0,
 - False,0,
@@ -27,8 +27,8 @@ _inventory:
 - False,0,
 - False,0,
 _hotbar:
-- ''
-- ''
+- Mana Potion 1
+- Health Potion 1
 - ''
 - ''
 - ''
