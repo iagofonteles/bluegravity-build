@@ -1,0 +1,34 @@
+DisplayName: 
+Money:
+  Value: 0
+Equipments:
+- Value: ''
+- Value: ''
+- Value: ''
+_inventory:
+- False,2,Wood
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+- False,0,
+_hotbar:
+- ''
+- ''
+- ''
+- ''
+- ''
